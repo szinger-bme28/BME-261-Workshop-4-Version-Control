@@ -1,7 +1,5 @@
 const int Photoresistor = A0;
 const int Red = 9;
-const int Green = 10;
-const int Blue = 11;
 
 const int Bright = 800;
 const int Dark= 300;
